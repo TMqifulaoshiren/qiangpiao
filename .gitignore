@@ -1,0 +1,12 @@
+# 登录态与浏览器数据（含账号 Cookie，绝不提交）
+profile/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 调试产物（页面转储/截图可能含账号信息）与运行日志
+debug_out/
+*.log
